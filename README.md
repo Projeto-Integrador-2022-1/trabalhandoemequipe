@@ -1,2 +1,1 @@
-# trabalhandoemequipe
-Demonstrações de como trabalhar em equipe
+# Pessoa A é top das tops.
